@@ -1,4 +1,4 @@
 title: "Star Blog"
 description: "My Personal Blog"
-
+baseurl: "/starblog"
 theme: minima
